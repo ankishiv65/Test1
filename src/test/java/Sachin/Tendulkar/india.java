@@ -18,11 +18,21 @@ public class india {
 	public void enjoy() {
 		System.out.println("enjoy");
 	}
-   ///adding new code for branch
+   ///adding new code for branch devlop
 	public void laugh() {
 		System.out.println("lagugh");
 	}
 	public void hug() {
+		
 		System.out.println("hug");
 	}
+	////
+public void west_indies() {
+		
+		System.out.println("black");
+	}
+public void pablo() {
+	
+	System.out.println("pablos");
+}
 }
