@@ -18,5 +18,11 @@ public class india {
 	public void enjoy() {
 		System.out.println("enjoy");
 	}
-
+   ///adding new code for branch
+	public void laugh() {
+		System.out.println("lagugh");
+	}
+	public void hug() {
+		System.out.println("hug");
+	}
 }
