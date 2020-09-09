@@ -11,5 +11,12 @@ public class india {
 	public void walk() {
 		System.out.println("walk");
 	}
+	/////////////////
+	public void dance() {
+		System.out.println("dance");
+	}
+	public void enjoy() {
+		System.out.println("enjoy");
+	}
 
 }
